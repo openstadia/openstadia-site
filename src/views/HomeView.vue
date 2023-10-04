@@ -8,7 +8,7 @@ import TheJoin from '@/components/TheJoin.vue'
       <div class="flex flex-col items-center text-center">
         <div class="flex items-center text-6xl">
           <img class="h-14 lg:h-24 w-auto mr-4 lg:mr-6" src="@/assets/openstadia.svg" alt="" />
-          <span class="text-4xl lg:text-6xl">OpenStadia</span>
+          <span class="text-4xl lg:text-6xl font-title">OpenStadia</span>
         </div>
 
         <h1 class="mt-4 text-xl lg:text-2xl uppercase text-openstadia">Cloud Gaming Your Way</h1>

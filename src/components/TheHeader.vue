@@ -10,11 +10,11 @@ import { RouterLink } from 'vue-router'
     >
       <RouterLink to="/" class="flex items-center lg:flex-1 lg:flex-shrink-0">
         <div class="flex items-center -m-1.5 p-1.5">
-          <span class="sr-only">OpenStadia</span>
+          <span class="font-title sr-only">OpenStadia</span>
           <img class="h-8 w-auto" src="@/assets/openstadia.svg" alt="" />
         </div>
 
-        <span class="ml-2 text-2xl">OpenStadia</span>
+        <span class="font-title ml-2 text-2xl">OpenStadia</span>
       </RouterLink>
     </nav>
   </header>

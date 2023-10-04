@@ -7,7 +7,7 @@ import IconGithub from '@/components/icons/IconGithub.vue'
     <div class="p-2 lg:p-4 lg:px-6">
       <div class="flex pt-2 lg:pt-4 justify-between border-t border-gray-400">
         <div class="flex items-baseline">
-          <div class="lg:text-s">OpenStadia</div>
+          <div class="font-title lg:text-s">OpenStadia</div>
           <a href="https://utkin.tech/" class="font-utkin ml-2 text-xs text-gray-600"
             >by utkin.tech</a
           >

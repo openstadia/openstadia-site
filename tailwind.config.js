@@ -24,7 +24,8 @@ module.exports = {
       },
       fontFamily: {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
-        utkin: ['Comfortaa', 'cursive']
+        utkin: ['Comfortaa', 'cursive'],
+        title: ['Saira Condensed', 'sans-serif']
       }
     }
   },
