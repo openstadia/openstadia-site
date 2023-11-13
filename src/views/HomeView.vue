@@ -35,12 +35,12 @@ onBeforeUnmount(() => {
             <div
               class="relative rounded-full px-4 lg:px-6 py-2 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/20"
             >
-              🎉Release 0.1.0🎉
+              🎉Release 0.2.0🎉
             </div>
 
             <a
               class="ml-4"
-              href="https://github.com/openstadia/openstadia/releases/tag/v0.1.0-alpha"
+              href="https://github.com/openstadia/openstadia/releases/tag/v0.2.0-alpha"
             >
               <button
                 type="button"
